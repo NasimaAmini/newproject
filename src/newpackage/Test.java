@@ -6,5 +6,7 @@ public class Test {
 		
 		System.out.println("Initial part");
 	}
+	
+	// comment
 
 }
