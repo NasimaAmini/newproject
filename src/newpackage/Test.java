@@ -12,5 +12,11 @@ public class Test {
 	public void add() {
 		System.out.println(2+3);
 	}
+	
+	
+	public void add2() {
+		
+		System.out.println(5+7);
+	}
 
 }
