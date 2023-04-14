@@ -8,5 +8,9 @@ public class Test {
 	}
 	
 	// comment
+	
+	public void add() {
+		System.out.println(2+3);
+	}
 
 }
